@@ -1,0 +1,447 @@
+{
+    "measurement_technique": {
+        "name": {
+            "ja": "測定手法",
+            "en": "Measurement Technique"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "description": "STEM, TEM, TEDの場合は「ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode」から取得。EELSの場合は「ImageList.TagGroup0.ImageTags.Meta Data.Signal」から取得。"
+    },
+    "tem.operator_identifier": {
+        "name": {
+            "ja": "測定者",
+            "en": "Operator identifier"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
+    },
+    "tem.operator_affiliation_identifier": {
+        "name": {
+            "ja": "測定者所属機関",
+            "en": "Operator affiliation identifier"
+        },
+        "schema": {
+            "type": "string"
+        }
+    },
+    "tem.institution_idendfier": {
+        "name": {
+            "ja": "所属施設など",
+            "en": "Institution idendfier"
+        },
+        "schema": {
+            "type": "string"
+        }
+    },
+    "tem.measurement_instrument": {
+        "name": {
+            "ja": "測定装置",
+            "en": "Measurement Instrument"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Value"
+    },
+    "tem.experiment_id": {
+        "name": {
+            "ja": "測定内容識別ID",
+            "en": "Experiment ID"
+        },
+        "schema": {
+            "type": "string"
+        }
+    },
+    "tem.file_property": {
+        "name": {
+            "ja": "測定ファイル_属性",
+            "en": "File Property"
+        },
+        "schema": {
+            "type": "string"
+        }
+    },
+    "tem.operation_date_time_year": {
+        "name": {
+            "ja": "測定日時[年]",
+            "en": "Operation Date-time[Year]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+    },
+    "tem.operation_date_time_month": {
+        "name": {
+            "ja": "測定日時[月]",
+            "en": "Operation Date-time[Month]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+    },
+    "tem.operation_date_time_day": {
+        "name": {
+            "ja": "測定日時[日]",
+            "en": "Operation Date-time[Day]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+    },
+    "tem.operation_date_time_hour": {
+        "name": {
+            "ja": "測定日時[時]",
+            "en": "Operation Date-time[Hour]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+    },
+    "tem.operation_date_time_minute": {
+        "name": {
+            "ja": "測定日時[分]",
+            "en": "Operation Date-time[Minute]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+    },
+    "tem.operation_date_time_second": {
+        "name": {
+            "ja": "測定日時[秒]",
+            "en": "Operation Date-time[Second]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+    },
+    "tem.dwell_time": {
+        "name": {
+            "ja": "画素滞在時間",
+            "en": "Dwell Time"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.DigiScan.Sample Time",
+        "unit": "us",
+        "originalType": "number"
+    },
+    "tem.image_data_size": {
+        "name": {
+            "ja": "画像データサイズ",
+            "en": "Image Data Size"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Data.size_bytes",
+        "originalType": "number"
+    },
+    "tem.origin_of_tem_image_intensity": {
+        "name": {
+            "ja": "TEM像強度の原点",
+            "en": "Origin of TEM image intensity"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Origin",
+        "originalType": "number"
+    },
+    "tem.scale_of_tem_image_intensity": {
+        "name": {
+            "ja": "TEM像強度のスケール",
+            "en": "Scale of TEM image intensity"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Scale",
+        "originalType": "number"
+    },
+    "tem.unit_of_tem_image_intensity": {
+        "name": {
+            "ja": "TEM像強度の単位",
+            "en": "Unit of TEM image intensity"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Units"
+    },
+    "tem.pixel_size_along_x_axis": {
+        "name": {
+            "ja": "x方向の画素サイズ",
+            "en": "Pixel size along x axis"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Scale",
+        "originalType": "number"
+    },
+    "tem.pixel_size_along_y_axis": {
+        "name": {
+            "ja": "y方向の画素サイズ",
+            "en": "Pixel size along y axis"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Scale",
+        "originalType": "number"
+    },
+    "tem.pixel_number_along_x_axis": {
+        "name": {
+            "ja": "x方向の画素数",
+            "en": "Pixel number along x axis"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Dimensions.Data0",
+        "unit": "pixel",
+        "originalType": "number"
+    },
+    "tem.pixel_number_along_y_axis": {
+        "name": {
+            "ja": "y方向の画素数",
+            "en": "Pixel number along y axis"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Dimensions.Data1",
+        "unit": "pixel",
+        "originalType": "number"
+    },
+    "tem.pixel_actual_size_along_x_axis": {
+        "name": {
+            "ja": "x方向の実サイズ",
+            "en": "Pixel actual size along x axis"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "unit": "nm"
+    },
+    "tem.pixel_actual_size_along_y_axis": {
+        "name": {
+            "ja": "y方向の実サイズ",
+            "en": "Pixel actual size along y axis"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "unit": "nm"
+    },
+    "tem.dynamic_range_of_tem_image_intensity": {
+        "name": {
+            "ja": "TEM像強度のダイナミックレンジ",
+            "en": "Dynamic range of TEM image intensity"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.PixelDepth",
+        "unit": "byte",
+        "originalType": "number"
+    },
+    "tem.name_of_scanning_unit": {
+        "name": {
+            "ja": "走査装置名称",
+            "en": "Name of scanning unit"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Device Name"
+    },
+    "tem.serial_number_by_scanning_unit": {
+        "name": {
+            "ja": "走査ユニット出力シリアル番号",
+            "en": "Serial number by scanning unit"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Exposure Number",
+        "originalType": "number"
+    },
+    "tem.flyback_time": {
+        "name": {
+            "ja": "振り戻し時間",
+            "en": "Flyback time"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.DigiScan.Flyback",
+        "originalType": "number"
+    },
+    "tem.line_synchronization": {
+        "name": {
+            "ja": "電源同期",
+            "en": "Line synchronization"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.DigiScan.Synchronize Lines"
+    },
+    "tem.gms_version_for_acquisition": {
+        "name": {
+            "ja": "データ取得GMSバージョン",
+            "en": "GMS version for acquisition"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Created"
+    },
+    "tem.gms_version_for_saving": {
+        "name": {
+            "ja": "データ保存GMSバーション",
+            "en": "GMS version for saving"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Saved"
+    },
+    "tem.magnification": {
+        "name": {
+            "ja": "倍率",
+            "en": "Magnification"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Indicated Magnification",
+        "originalType": "number"
+    },
+    "tem.acceleration_voltage": {
+        "name": {
+            "ja": "加速電圧",
+            "en": "Acceleration voltage"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Voltage",
+        "unit": "V",
+        "originalType": "number"
+    },
+    "tem.post_specimen_lens_setting": {
+        "name": {
+            "ja": "結像系レンズ設定",
+            "en": "Post-specimen lens setting"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Imaging Mode"
+    },
+    "tem.pre_specimen_lens_setting": {
+        "name": {
+            "ja": "照射系レンズ設定",
+            "en": "Pre-specimen lens setting"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode"
+    },
+    "tem.microscope_information": {
+        "name": {
+            "ja": "電子顕微鏡情報",
+            "en": "Microscope information"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Name"
+    },
+    "tem.microscope_operation_mode": {
+        "name": {
+            "ja": "電子顕微鏡モード",
+            "en": "Microscope operation mode"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode"
+    },
+    "tem.stem_camera_length": {
+        "name": {
+            "ja": "STEMカメラ長",
+            "en": "STEM camera length"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.STEM Camera Length",
+        "unit": "mm",
+        "originalType": "number"
+    },
+    "tem.file_name": {
+        "name": {
+            "ja": "ファイル名",
+            "en": "File name"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.Name"
+    },
+    "tem.session_information_microscope": {
+        "name": {
+            "ja": "セッション情報（電子顕微鏡）",
+            "en": "Session information(microscope)"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Microscope"
+    },
+    "tem.session_information_operator": {
+        "name": {
+            "ja": "セッション情報（オペレーター）",
+            "en": "Session information(operator)"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
+    },
+    "tem.session_information_specimen": {
+        "name": {
+            "ja": "セッション情報（試料）",
+            "en": "Session_information(specimen)"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Specimen"
+    },
+    "tem.comment": {
+        "name": {
+            "ja": "コメント",
+            "en": "Comment"
+        },
+        "schema": {
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+# PyPI library used in all project
+rdetoolkit==1.1.0
+numpy==1.26.4
+matplotlib==3.9.2
+pandas==2.2.0
+# PyPI libraries to be customized and installed in each project
+hyperspy==2.2.0
+numba==0.60.0
+exspy==0.3.1
+pydantic==2.10.4
+python-dateutil==2.9.0.post0
+imagecodecs==2024.9.22

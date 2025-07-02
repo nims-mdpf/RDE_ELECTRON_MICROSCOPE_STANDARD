@@ -1,0 +1,36 @@
+{
+    "pixel_number_along_x_axis": {
+        "name": {
+            "ja": "x方向の画素数",
+            "en": "Pixel number along x axis"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageWidth",
+        "unit": "pixel",
+        "originalType": "number"
+    },
+    "pixel_number_along_y_axis": {
+        "name": {
+            "ja": "y方向の画素数",
+            "en": "Pixel number along y axis"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageLength",
+        "unit": "pixel",
+        "originalType": "number"
+    },
+    "file_last_modified_date_time": {
+        "name": {
+            "ja": "ファイル最終更新日",
+            "en": "File Last Modified Date Time"
+        },
+        "schema": {
+            "type": "string",
+            "format": "date-time"
+        }
+    }
+}
