@@ -15,6 +15,8 @@ RDE (Research Data Express) は、物質・材料についての研究データ�
 
 詳細は[docs/manual/index.md](docs/manual/index.md)を参照してください。
 
+提供しているRDEデータセットテンプレート RDE_ELECTRON_MICROSCOPE_STANDARD を動かしてみる手順は[tryout/tryout.md](tryout/tryout.md)を参照してください。
+
 RDEToolKitを用いて作成されています。
 
 ## 関連リンク
