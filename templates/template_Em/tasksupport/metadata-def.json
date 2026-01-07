@@ -8,7 +8,7 @@
             "type": "integer"
         },
         "unit": "pixel",
-        "originalType": "number"
+        "original_type": "number"
     },
     "pixel_number_along_y_axis": {
         "name": {
@@ -19,7 +19,7 @@
             "type": "integer"
         },
         "unit": "pixel",
-        "originalType": "number"
+        "original_type": "number"
     },
     "file_last_modified_date_time": {
         "name": {
