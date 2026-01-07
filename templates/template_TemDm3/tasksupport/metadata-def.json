@@ -17,7 +17,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
     },
     "tem.operator_affiliation_identifier": {
         "name": {
@@ -45,7 +45,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Value"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Value"
     },
     "tem.experiment_id": {
         "name": {
@@ -73,7 +73,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
     },
     "tem.operation_date_time_month": {
         "name": {
@@ -83,7 +83,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
     },
     "tem.operation_date_time_day": {
         "name": {
@@ -93,7 +93,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
     },
     "tem.operation_date_time_hour": {
         "name": {
@@ -103,7 +103,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
     },
     "tem.operation_date_time_minute": {
         "name": {
@@ -113,7 +113,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
     },
     "tem.operation_date_time_second": {
         "name": {
@@ -123,7 +123,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
     },
     "tem.dwell_time": {
         "name": {
@@ -133,9 +133,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DigiScan.Sample Time",
         "unit": "us",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.DigiScan.Sample Time",
+        "original_type": "number"
     },
     "tem.image_data_size": {
         "name": {
@@ -145,8 +145,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Data.size_bytes",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Data.size_bytes",
+        "original_type": "number"
     },
     "tem.origin_of_tem_image_intensity": {
         "name": {
@@ -156,8 +156,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Origin",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Origin",
+        "original_type": "number"
     },
     "tem.scale_of_tem_image_intensity": {
         "name": {
@@ -167,8 +167,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Scale",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Scale",
+        "original_type": "number"
     },
     "tem.unit_of_tem_image_intensity": {
         "name": {
@@ -178,7 +178,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Units"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Units"
     },
     "tem.pixel_size_along_x_axis": {
         "name": {
@@ -188,8 +188,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Scale",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Scale",
+        "original_type": "number"
     },
     "tem.pixel_size_along_y_axis": {
         "name": {
@@ -199,8 +199,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Scale",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Scale",
+        "original_type": "number"
     },
     "tem.pixel_number_along_x_axis": {
         "name": {
@@ -210,9 +210,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Dimensions.Data0",
         "unit": "pixel",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Dimensions.Data0",
+        "original_type": "number"
     },
     "tem.pixel_number_along_y_axis": {
         "name": {
@@ -222,9 +222,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Dimensions.Data1",
         "unit": "pixel",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Dimensions.Data1",
+        "original_type": "number"
     },
     "tem.pixel_actual_size_along_x_axis": {
         "name": {
@@ -254,9 +254,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.PixelDepth",
         "unit": "byte",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.PixelDepth",
+        "original_type": "number"
     },
     "tem.name_of_scanning_unit": {
         "name": {
@@ -266,7 +266,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Device Name"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Device Name"
     },
     "tem.serial_number_by_scanning_unit": {
         "name": {
@@ -276,8 +276,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Exposure Number",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Exposure Number",
+        "original_type": "number"
     },
     "tem.flyback_time": {
         "name": {
@@ -287,8 +287,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DigiScan.Flyback",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.DigiScan.Flyback",
+        "original_type": "number"
     },
     "tem.line_synchronization": {
         "name": {
@@ -298,7 +298,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DigiScan.Synchronize Lines"
+        "original_name": "ImageList.TagGroup0.ImageTags.DigiScan.Synchronize Lines"
     },
     "tem.gms_version_for_acquisition": {
         "name": {
@@ -308,7 +308,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Created"
+        "original_name": "ImageList.TagGroup0.ImageTags.GMS Version.Created"
     },
     "tem.gms_version_for_saving": {
         "name": {
@@ -318,7 +318,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Saved"
+        "original_name": "ImageList.TagGroup0.ImageTags.GMS Version.Saved"
     },
     "tem.magnification": {
         "name": {
@@ -328,8 +328,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Indicated Magnification",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Indicated Magnification",
+        "original_type": "number"
     },
     "tem.acceleration_voltage": {
         "name": {
@@ -339,9 +339,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Voltage",
         "unit": "V",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Voltage",
+        "original_type": "number"
     },
     "tem.post_specimen_lens_setting": {
         "name": {
@@ -351,7 +351,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Imaging Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Imaging Mode"
     },
     "tem.pre_specimen_lens_setting": {
         "name": {
@@ -361,7 +361,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode"
     },
     "tem.microscope_information": {
         "name": {
@@ -371,7 +371,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Name"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Name"
     },
     "tem.microscope_operation_mode": {
         "name": {
@@ -381,7 +381,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode"
     },
     "tem.stem_camera_length": {
         "name": {
@@ -391,9 +391,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.STEM Camera Length",
         "unit": "mm",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.STEM Camera Length",
+        "original_type": "number"
     },
     "tem.file_name": {
         "name": {
@@ -403,7 +403,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.Name"
+        "original_name": "ImageList.TagGroup0.Name"
     },
     "tem.session_information_microscope": {
         "name": {
@@ -413,7 +413,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Microscope"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Microscope"
     },
     "tem.session_information_operator": {
         "name": {
@@ -423,7 +423,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
     },
     "tem.session_information_specimen": {
         "name": {
@@ -433,7 +433,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Specimen"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Specimen"
     },
     "tem.comment": {
         "name": {
@@ -452,7 +452,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
     },
     "stem.operator_affiliation_identifier": {
         "name": {
@@ -480,7 +480,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Value"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Value"
     },
     "stem.experiment_id": {
         "name": {
@@ -508,7 +508,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
     },
     "stem.operation_date_time_month": {
         "name": {
@@ -518,7 +518,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
     },
     "stem.operation_date_time_day": {
         "name": {
@@ -528,7 +528,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
     },
     "stem.operation_date_time_hour": {
         "name": {
@@ -538,7 +538,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
     },
     "stem.operation_date_time_minute": {
         "name": {
@@ -548,7 +548,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
     },
     "stem.operation_date_time_second": {
         "name": {
@@ -558,7 +558,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
     },
     "stem.dwell_time": {
         "name": {
@@ -568,9 +568,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DigiScan.Sample Time",
         "unit": "us",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.DigiScan.Sample Time",
+        "original_type": "number"
     },
     "stem.image_data_size": {
         "name": {
@@ -580,8 +580,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Data.size_bytes",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Data.size_bytes",
+        "original_type": "number"
     },
     "stem.origin_of_stem_image_intensity": {
         "name": {
@@ -591,8 +591,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Origin",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Origin",
+        "original_type": "number"
     },
     "stem.scale_of_stem_image_intensity": {
         "name": {
@@ -602,8 +602,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Scale",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Scale",
+        "original_type": "number"
     },
     "stem.unit_of_stem_image_intensity": {
         "name": {
@@ -613,7 +613,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Units"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Units"
     },
     "stem.pixel_size_along_x_axis": {
         "name": {
@@ -623,9 +623,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Scale",
         "unit": "nm",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Scale",
+        "original_type": "number"
     },
     "stem.pixel_size_along_y_axis": {
         "name": {
@@ -635,9 +635,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Scale",
         "unit": "nm",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Scale",
+        "original_type": "number"
     },
     "stem.pixel_number_along_x_axis": {
         "name": {
@@ -647,9 +647,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Dimensions.Data0",
         "unit": "pixel",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Dimensions.Data0",
+        "original_type": "number"
     },
     "stem.pixel_number_along_y_axis": {
         "name": {
@@ -659,9 +659,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Dimensions.Data1",
         "unit": "pixel",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Dimensions.Data1",
+        "original_type": "number"
     },
     "stem.pixel_actual_size_along_x_axis": {
         "name": {
@@ -691,9 +691,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.PixelDepth",
         "unit": "byte",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.PixelDepth",
+        "original_type": "number"
     },
     "stem.name_of_scanning_unit": {
         "name": {
@@ -703,7 +703,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Device Name"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Device Name"
     },
     "stem.serial_number_by_scanning_unit": {
         "name": {
@@ -713,8 +713,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Exposure Number",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Exposure Number",
+        "original_type": "number"
     },
     "stem.flyback_time": {
         "name": {
@@ -724,8 +724,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DigiScan.Flyback",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.DigiScan.Flyback",
+        "original_type": "number"
     },
     "stem.line_synchronization": {
         "name": {
@@ -735,7 +735,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DigiScan.Synchronize Lines"
+        "original_name": "ImageList.TagGroup0.ImageTags.DigiScan.Synchronize Lines"
     },
     "stem.gms_version_for_acquisition": {
         "name": {
@@ -745,7 +745,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Created"
+        "original_name": "ImageList.TagGroup0.ImageTags.GMS Version.Created"
     },
     "stem.gms_version_for_saving": {
         "name": {
@@ -755,7 +755,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Saved"
+        "original_name": "ImageList.TagGroup0.ImageTags.GMS Version.Saved"
     },
     "stem.magnification": {
         "name": {
@@ -765,8 +765,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Indicated Magnification",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Indicated Magnification",
+        "original_type": "number"
     },
     "stem.acceleration_voltage": {
         "name": {
@@ -776,9 +776,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Voltage",
         "unit": "V",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Voltage",
+        "original_type": "number"
     },
     "stem.post_specimen_lens_setting": {
         "name": {
@@ -788,7 +788,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Imaging Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Imaging Mode"
     },
     "stem.pre_specimen_lens_setting": {
         "name": {
@@ -798,7 +798,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode"
     },
     "stem.microscope_information": {
         "name": {
@@ -808,7 +808,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Name"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Name"
     },
     "stem.microscope_operation_mode": {
         "name": {
@@ -818,7 +818,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode"
     },
     "stem.stem_camera_length": {
         "name": {
@@ -828,9 +828,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.STEM Camera Length",
         "unit": "mm",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.STEM Camera Length",
+        "original_type": "number"
     },
     "stem.file_name": {
         "name": {
@@ -840,7 +840,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.Name"
+        "original_name": "ImageList.TagGroup0.Name"
     },
     "stem.session_information_microscope": {
         "name": {
@@ -850,7 +850,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Microscope"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Microscope"
     },
     "stem.session_information_operator": {
         "name": {
@@ -860,7 +860,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
     },
     "stem.session_information_specimen": {
         "name": {
@@ -870,7 +870,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Specimen"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Specimen"
     },
     "stem.comment": {
         "name": {
@@ -889,7 +889,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
     },
     "ted.operator_affiliation_identifier": {
         "name": {
@@ -917,7 +917,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Items.2.Value"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Items.2.Value"
     },
     "ted.experiment_id": {
         "name": {
@@ -945,7 +945,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
     },
     "ted.operation_date_time_month": {
         "name": {
@@ -955,7 +955,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
     },
     "ted.operation_date_time_day": {
         "name": {
@@ -965,7 +965,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date"
     },
     "ted.operation_date_time_hour": {
         "name": {
@@ -975,7 +975,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
     },
     "ted.operation_date_time_minute": {
         "name": {
@@ -985,7 +985,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
     },
     "ted.operation_date_time_second": {
         "name": {
@@ -995,7 +995,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time"
     },
     "ted.image_data_size": {
         "name": {
@@ -1005,8 +1005,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Data.size_bytes",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Data.size_bytes",
+        "original_type": "number"
     },
     "ted.origin_of_diffraction_pattern_intensity": {
         "name": {
@@ -1016,8 +1016,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Origin",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Origin",
+        "original_type": "number"
     },
     "ted.scale_of_diffraction_pattern_intensity": {
         "name": {
@@ -1027,8 +1027,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Scale",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Scale",
+        "original_type": "number"
     },
     "ted.unit_of_diffraction_pattern_intensity": {
         "name": {
@@ -1038,7 +1038,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Units"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Units"
     },
     "ted.origin_of_x_axis": {
         "name": {
@@ -1048,8 +1048,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Origin",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Origin",
+        "original_type": "number"
     },
     "ted.origin_of_y_axis": {
         "name": {
@@ -1059,8 +1059,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Origin",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Origin",
+        "original_type": "number"
     },
     "ted.pixel_size_along_x_axis": {
         "name": {
@@ -1070,9 +1070,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Scale",
-        "originalType": "number",
-        "unit": "$ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Units"
+        "unit": "$ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Units",
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Scale",
+        "original_type": "number"
     },
     "ted.pixel_size_along_y_axis": {
         "name": {
@@ -1082,9 +1082,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Scale",
-        "originalType": "number",
-        "unit": "$ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Units"
+        "unit": "$ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Units",
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Scale",
+        "original_type": "number"
     },
     "ted.pixel_number_along_x_axis": {
         "name": {
@@ -1094,9 +1094,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Dimensions.Data0",
         "unit": "pixel",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Dimensions.Data0",
+        "original_type": "number"
     },
     "ted.pixel_number_along_y_axis": {
         "name": {
@@ -1106,9 +1106,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Dimensions.Data1",
         "unit": "pixel",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Dimensions.Data1",
+        "original_type": "number"
     },
     "ted.pixel_actual_size_along_x_axis": {
         "name": {
@@ -1138,9 +1138,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.PixelDepth",
         "unit": "byte",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.PixelDepth",
+        "original_type": "number"
     },
     "ted.detector": {
         "name": {
@@ -1150,7 +1150,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Device Name"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Device Name"
     },
     "ted.serial_number_by_detector_unit": {
         "name": {
@@ -1160,8 +1160,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Exposure Number",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Exposure Number",
+        "original_type": "number"
     },
     "ted.exposure_time": {
         "name": {
@@ -1171,9 +1171,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.DataBar.Exposure Time (s)",
         "unit": "s",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.DataBar.Exposure Time (s)",
+        "original_type": "number"
     },
     "ted.gms_version_for_acquisition": {
         "name": {
@@ -1183,7 +1183,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Created"
+        "original_name": "ImageList.TagGroup0.ImageTags.GMS Version.Created"
     },
     "ted.gms_version_for_saving": {
         "name": {
@@ -1193,7 +1193,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Saved"
+        "original_name": "ImageList.TagGroup0.ImageTags.GMS Version.Saved"
     },
     "ted.camera_length": {
         "name": {
@@ -1203,9 +1203,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Indicated Magnification",
         "unit": "mm",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Indicated Magnification",
+        "original_type": "number"
     },
     "ted.acceleration_voltage": {
         "name": {
@@ -1215,9 +1215,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Voltage",
         "unit": "V",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Voltage",
+        "original_type": "number"
     },
     "ted.post_specimen_lens_setting": {
         "name": {
@@ -1227,7 +1227,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Imaging Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Imaging Mode"
     },
     "ted.pre_specimen_lens_setting": {
         "name": {
@@ -1237,7 +1237,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode"
     },
     "ted.microscope_information": {
         "name": {
@@ -1247,7 +1247,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Name"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Name"
     },
     "ted.microscope_operation_mode": {
         "name": {
@@ -1257,7 +1257,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode"
     },
     "ted.file_name": {
         "name": {
@@ -1267,7 +1267,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.Name"
+        "original_name": "ImageList.TagGroup0.Name"
     },
     "ted.session_information_microscope": {
         "name": {
@@ -1277,7 +1277,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Microscope"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Microscope"
     },
     "ted.session_information_operator": {
         "name": {
@@ -1287,7 +1287,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
     },
     "ted.session_infomation_specimen": {
         "name": {
@@ -1297,7 +1297,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Specimen"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Specimen"
     },
     "ted.comment": {
         "name": {
@@ -1316,7 +1316,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
     },
     "eels.operator_affiliation_identifier": {
         "name": {
@@ -1344,7 +1344,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Value"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Value"
     },
     "eels.experiment_id": {
         "name": {
@@ -1372,7 +1372,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Date"
     },
     "eels.operation_date_time_month": {
         "name": {
@@ -1382,7 +1382,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Date"
     },
     "eels.operation_date_time_day": {
         "name": {
@@ -1392,7 +1392,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Date"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Date"
     },
     "eels.operation_date_time_hour": {
         "name": {
@@ -1402,7 +1402,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.End time"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.End time"
     },
     "eels.operation_date_time_minute": {
         "name": {
@@ -1412,7 +1412,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.End time"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.End time"
     },
     "eels.operation_date_time_second": {
         "name": {
@@ -1422,7 +1422,7 @@
         "schema": {
             "type": "integer"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.End time"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.End time"
     },
     "eels.data_size": {
         "name": {
@@ -1432,9 +1432,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Data.size_bytes",
         "unit": "byte",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Data.size_bytes",
+        "original_type": "number"
     },
     "eels.file_name": {
         "name": {
@@ -1444,7 +1444,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.Name"
+        "original_name": "ImageList.TagGroup0.Name"
     },
     "eels.origin_of_spectrum_intensity": {
         "name": {
@@ -1454,8 +1454,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Origin",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Origin",
+        "original_type": "number"
     },
     "eels.scale_of_spectrum_intensity": {
         "name": {
@@ -1465,8 +1465,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Scale",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Scale",
+        "original_type": "number"
     },
     "eels.unit_of_spectrum_intensity": {
         "name": {
@@ -1476,7 +1476,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Units"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Units"
     },
     "eels.energy_dispersion_per_channel": {
         "name": {
@@ -1486,9 +1486,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Scale",
         "unit": "eV",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Scale",
+        "original_type": "number"
     },
     "eels.number_of_channels": {
         "name": {
@@ -1498,9 +1498,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.Dimensions.Data0",
         "unit": "pixel",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.Dimensions.Data0",
+        "original_type": "number"
     },
     "eels.dynamic_range_of_spectrum_intensity": {
         "name": {
@@ -1510,9 +1510,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageData.PixelDepth",
         "unit": "byte",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageData.PixelDepth",
+        "original_type": "number"
     },
     "eels.detector": {
         "name": {
@@ -1522,7 +1522,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Acquisition.Device.Name"
+        "original_name": "ImageList.TagGroup0.ImageTags.Acquisition.Device.Name"
     },
     "eels.binning": {
         "name": {
@@ -1532,7 +1532,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Acquisition.Frame.Area.Transform.Transform List.TagGroup0.Binning"
+        "original_name": "ImageList.TagGroup0.ImageTags.Acquisition.Frame.Area.Transform.Transform List.TagGroup0.Binning"
     },
     "eels.total_integration_time": {
         "name": {
@@ -1542,9 +1542,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Integration time (s)",
         "unit": "s",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Integration time (s)",
+        "original_type": "number"
     },
     "eels.number_of_frames": {
         "name": {
@@ -1554,8 +1554,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Number of frames",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Number of frames",
+        "original_type": "number"
     },
     "eels.measurement_starting_time": {
         "name": {
@@ -1565,7 +1565,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Start time"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Start time"
     },
     "eels.spectrometer_entrance_aperture": {
         "name": {
@@ -1575,9 +1575,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Aperture label",
         "unit": "mm",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Aperture label",
+        "original_type": "number"
     },
     "eels.drift_tube_enable": {
         "name": {
@@ -1587,7 +1587,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Drift tube enabled"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Drift tube enabled"
     },
     "eels.drift_tube_voltage": {
         "name": {
@@ -1597,9 +1597,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Drift tube voltage (V)",
         "unit": "V",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Drift tube voltage (V)",
+        "original_type": "number"
     },
     "eels.magnetic_sector_setting": {
         "name": {
@@ -1609,9 +1609,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Energy loss (eV)",
         "unit": "eV",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Energy loss (eV)",
+        "original_type": "number"
     },
     "eels.high_tension_offset_voltage": {
         "name": {
@@ -1621,9 +1621,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.HT offset (V)",
         "unit": "V",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.HT offset (V)",
+        "original_type": "number"
     },
     "eels.high_tension_offset_enable": {
         "name": {
@@ -1633,7 +1633,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.HT offset enabled"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.HT offset enabled"
     },
     "eels.eels_spectrometer_name": {
         "name": {
@@ -1643,7 +1643,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Instrument name"
+        "original_name": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Instrument name"
     },
     "eels.gms_version_for_acquisition": {
         "name": {
@@ -1653,7 +1653,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Created"
+        "original_name": "ImageList.TagGroup0.ImageTags.GMS Version.Created"
     },
     "eels.gms_version_for_saving": {
         "name": {
@@ -1663,7 +1663,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Saved"
+        "original_name": "ImageList.TagGroup0.ImageTags.GMS Version.Saved"
     },
     "eels.magnification": {
         "name": {
@@ -1673,8 +1673,8 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Indicated Magnification",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Indicated Magnification",
+        "original_type": "number"
     },
     "eels.acceleration_voltage": {
         "name": {
@@ -1684,9 +1684,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Voltage",
         "unit": "V",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Voltage",
+        "original_type": "number"
     },
     "eels.post_specimen_lens_setting": {
         "name": {
@@ -1696,7 +1696,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Imaging Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Imaging Mode"
     },
     "eels.pre_specimen_lens_setting": {
         "name": {
@@ -1706,7 +1706,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode"
     },
     "eels.microscope_information": {
         "name": {
@@ -1716,7 +1716,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Name"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Name"
     },
     "eels.microscope_operation_mode": {
         "name": {
@@ -1726,7 +1726,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode"
     },
     "eels.stem_camera_length": {
         "name": {
@@ -1736,9 +1736,9 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.STEM Camera Length",
         "unit": "mm",
-        "originalType": "number"
+        "original_name": "ImageList.TagGroup0.ImageTags.Microscope Info.STEM Camera Length",
+        "original_type": "number"
     },
     "eels.file_name2": {
         "name": {
@@ -1748,7 +1748,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.Name"
+        "original_name": "ImageList.TagGroup0.Name"
     },
     "eels.specimen_info": {
         "name": {
@@ -1758,7 +1758,7 @@
         "schema": {
             "type": "string"
         },
-        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Specimen"
+        "original_name": "ImageList.TagGroup0.ImageTags.Session Info.Specimen"
     },
     "eels.comment": {
         "name": {
