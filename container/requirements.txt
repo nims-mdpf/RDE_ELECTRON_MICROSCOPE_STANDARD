@@ -1,8 +1,8 @@
 # PyPI library used in all project
-rdetoolkit==1.1.0
+rdetoolkit==1.7.1
 numpy==1.26.4
-matplotlib==3.9.2
-pandas==2.2.0
+matplotlib==3.9.4
+pandas==2.2.3
 # PyPI libraries to be customized and installed in each project
 hyperspy==2.2.0
 numba==0.60.0

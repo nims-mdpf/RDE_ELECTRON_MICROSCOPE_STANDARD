@@ -1,0 +1,116 @@
+{
+    "constant": {
+        "measurement_technique": {
+            "value": "STEM"
+        },
+        "ted.operator_identifier": {
+            "value": "[]"
+        },
+        "ted.operation_date_time_year": {
+            "value": 2023
+        },
+        "ted.operation_date_time_month": {
+            "value": 7
+        },
+        "ted.operation_date_time_day": {
+            "value": 19
+        },
+        "ted.operation_date_time_hour": {
+            "value": 11
+        },
+        "ted.operation_date_time_minute": {
+            "value": 19
+        },
+        "ted.operation_date_time_second": {
+            "value": 35
+        },
+        "ted.image_data_size": {
+            "value": "16777216"
+        },
+        "ted.origin_of_diffraction_pattern_intensity": {
+            "value": "0.0"
+        },
+        "ted.scale_of_diffraction_pattern_intensity": {
+            "value": "1.0"
+        },
+        "ted.unit_of_diffraction_pattern_intensity": {
+            "value": "[]"
+        },
+        "ted.origin_of_x_axis": {
+            "value": "0.0"
+        },
+        "ted.origin_of_y_axis": {
+            "value": "0.0"
+        },
+        "ted.pixel_size_along_x_axis": {
+            "value": "0.009220022708177567"
+        },
+        "ted.pixel_size_along_y_axis": {
+            "value": "0.009220022708177567"
+        },
+        "ted.pixel_number_along_x_axis": {
+            "value": "2048",
+            "unit": "pixel"
+        },
+        "ted.pixel_number_along_y_axis": {
+            "value": "2048",
+            "unit": "pixel"
+        },
+        "ted.pixel_actual_size_along_y_axis": {
+            "value": "18.882606506347656"
+        },
+        "ted.dynamic_range_of_diffraction_pattern_intensity": {
+            "value": "4",
+            "unit": "byte"
+        },
+        "ted.detector": {
+            "value": "WA-Orius"
+        },
+        "ted.serial_number_by_detector_unit": {
+            "value": "303856"
+        },
+        "ted.exposure_time": {
+            "value": "0.4",
+            "unit": "s"
+        },
+        "ted.gms_version_for_acquisition": {
+            "value": "3.23.1521.0"
+        },
+        "ted.gms_version_for_saving": {
+            "value": "3.23.1521.0"
+        },
+        "ted.camera_length": {
+            "value": "2700000.0",
+            "unit": "mm"
+        },
+        "ted.acceleration_voltage": {
+            "value": "200000.0",
+            "unit": "V"
+        },
+        "ted.post_specimen_lens_setting": {
+            "value": "DIFFRACTION"
+        },
+        "ted.pre_specimen_lens_setting": {
+            "value": "STEM"
+        },
+        "ted.microscope_information": {
+            "value": "FEI Tecnai"
+        },
+        "ted.microscope_operation_mode": {
+            "value": "SCANNING"
+        },
+        "ted.file_name": {
+            "value": "08"
+        },
+        "ted.session_information_microscope": {
+            "value": "[]"
+        },
+        "ted.session_information_operator": {
+            "value": "[]"
+        },
+        "ted.session_infomation_specimen": {
+            "value": "[]"
+        }
+    },
+    "variable": []
+}

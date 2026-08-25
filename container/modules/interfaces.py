@@ -100,7 +100,9 @@ class IMetaParser(ABC):
 class ISpectralAnalizer(ABC):
     """Abstract base class for HyperSpy2 spectral analyzers.
 
-    This abstract base class provides a structure for spectral analyzers using HyperSpy2. It defines methods for parsing and visualizing data, as well as a constructor that initializes the signal object based on the provided file path.
+    This abstract base class provides a structure for spectral analyzers using HyperSpy2.
+    It defines methods for parsing and visualizing data,
+    as well as a constructor that initializes the signal object based on the provided file path.
 
     Args:
         file_path (Path): The path to the input file.

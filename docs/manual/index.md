@@ -1,8 +1,8 @@
-# 透過電子顕微鏡データ標準テンプレート
+# 電子顕微鏡データ標準テンプレート
 
 ## 概要
 
-透過電子顕微鏡データを登録したい方に適したテンプレートです。２つの入力モードがあり、１つはGatan社 Digital Micrographのdm3フォーマットから計測手法を自動的に判別して、適切な可視化・可読化を行うTEM_DM3モードで、対応する計測手法は、TEM、STEM、TED、EELSです。もう１つは、dm3、tiff、png、bmpなどの画像ファイルを入力し、必要に応じて可視化・可読化を行うEMモードです。なお、すべての入力ファイルの解析にHyperSpyを用います。
+電子顕微鏡データを登録したい方に適したテンプレートです。２つの入力モードがあり、１つはGatan社 Digital Micrographのdm3フォーマットから計測手法を自動的に判別して、適切な可視化・可読化を行うTEM_DM3モードで、対応する計測手法は、TEM、STEM、TED、EELSです。もう１つは、dm3、tiff、png、bmpなどの画像ファイルを入力し、必要に応じて可視化・可読化を行うEMモードです。なお、すべての入力ファイルの解析にHyperSpyを用います。
 
 ## カタログ番号
 
@@ -87,7 +87,7 @@
 
 | ファイル名 | 内容 |備考|
 |:----|:----|:----|
-|<入力ファイル名>.png|入力ファイルをpng化したファイル|<img alt="Profile0txt.png" src="./images/imageformats_bmp/ULVAC_T20231124-1_TEM_An220k.png" width="300px">|
+|<入力ファイル名>.png|入力ファイルをpng化したファイル|<img alt="Profile0txt.png" src="./images/imageformats_bmp/ULVAC_T20231124-1_TEM_An220k(ImageJ手動).png" width="300px">|
 |<入力ファイル名>_metadata.csv|Exifデータ（Exifをできない場合は空）||
 |metadata.json|主要パラメータメタ情報ファイル||
 
@@ -692,14 +692,3 @@ EMモード処理用のクラスを取得します。
         Meta(metadata_def),
     )
 ```
-
-## データセットテンプレートシートについて
-
-　メタデータ定義(metadata-def.json)、送状定義(invoice.schema.json)、カタログ定義(catalog.schema.json)をエクセル形式のシートから生成することができるツールを以下に用意してあります。
-
-[RDE/データセットテンプレート生成、確認ツール](https://github.com/nims-mdpf/RDE_datasettemplate-schemafile-make-tool)
-
-　上記のツールで利用可能な本データセットテンプレート用のデータセットテンプレートシートは以下の通りです。
-
-- [templates/Em用](./RDEDatasetTemplateSheet_RDE_ELECTRON_MICROSCOPE_STANDARD_Em.xlsx)
-- [templates/TemDm3用](./RDEDatasetTemplateSheet_RDE_ELECTRON_MICROSCOPE_STANDARD_TemDm3.xlsx)

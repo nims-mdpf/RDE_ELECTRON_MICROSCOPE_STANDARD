@@ -1,0 +1,39 @@
+{
+    "datasetId": "e57bc090-e690-40d4-b77d-60775bf6e7e6",
+    "basic": {
+        "dateSubmitted": "",
+        "dataOwnerId": "308a39ac2cdd78d4e54c541979a179502cc942543432373562343632",
+        "dataName": "test2",
+        "instrumentId": "",
+        "experimentId": null,
+        "description": ""
+    },
+    "custom": {
+        "sputtering_apparatus": null,
+        "specimen_label": null,
+        "sample_year": null,
+        "sample_month": null,
+        "common_data_type": "TED",
+        "common_data_origin": "experiments",
+        "common_technical_category": "measurement",
+        "common_reference": null,
+        "measurement_method_category": "顕微法",
+        "measurement_method_sub_category": "透過電子顕微鏡法",
+        "measurement_analysis_field": null,
+        "measurement_measurement_environment": null,
+        "measurement_energy_level_transition_structure_etc_of_interst": null,
+        "measurement_measured_date": null,
+        "measurement_standardized_procedure": null,
+        "measurement_instrumentation_site": null
+    },
+    "sample": {
+        "sampleId": null,
+        "names": [
+            "dummy"
+        ],
+        "composition": null,
+        "referenceUrl": null,
+        "description": null,
+        "ownerId": "308a39ac2cdd78d4e54c541979a179502cc942543432373562343632"
+    }
+}
