@@ -1,0 +1,308 @@
+key,value
+ApplicationBounds,"(0, 0, 1101, 1341)"
+HasWindowPosition,1
+InImageMode,1
+LayoutType,Camera
+NextDocumentObjectID,10
+WindowPosition,"(376, 1008, 705, 1337)"
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.AnnotationType,31
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.BackgroundColor,"(-1, -1, -1)"
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.BackgroundMode,1
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.FillMode,1
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.Font.Attributes,7
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.Font.FamilyName,Arial
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.Font.Size,8
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.ForegroundColor,"(0, 0, 0)"
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.HasBackground,1
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.IsMoveable,1
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.IsResizable,1
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.IsSelectable,1
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.IsTransferrable,1
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.IsTranslatable,1
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.IsVisible,1
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.Rectangle,"(1808.0, 128.0, 1920.0, 704.0)"
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.RestrictionStyle,0
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.TextOffsetH,1.0
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.TextOffsetV,1.0
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.TextWidth,270.27508544921875
+DocumentObjectList.TagGroup0.AnnotationGroupList.TagGroup0.UniqueID,9
+DocumentObjectList.TagGroup0.AnnotationType,20
+DocumentObjectList.TagGroup0.BackgroundColor,"(-1, -1, -1)"
+DocumentObjectList.TagGroup0.BackgroundMode,2
+DocumentObjectList.TagGroup0.FillMode,1
+DocumentObjectList.TagGroup0.ForegroundColor,"(-1, -1, -1)"
+DocumentObjectList.TagGroup0.HasBackground,0
+DocumentObjectList.TagGroup0.ImageDisplayInfo.BrightColor,"(-1, -1, -1)"
+DocumentObjectList.TagGroup0.ImageDisplayInfo.Brightness,0.5
+DocumentObjectList.TagGroup0.ImageDisplayInfo.CaptionOn,0
+DocumentObjectList.TagGroup0.ImageDisplayInfo.CaptionSize,10
+DocumentObjectList.TagGroup0.ImageDisplayInfo.CLUT,"[(0, 0, 0), (257, 257, 257), (514, 514, 514), (771, 771, 771), (1028, 1028, 1028), (1285, 1285, 1285), (1542, 1542, 1542), (1799, 1799, 1799), (2056, 2056, 2056), (2313, 2313, 2313), (2570, 2570, 2570), (2827, 2827, 2827), (3084, 3084, 3084), (3341, 3341, 3341), (3598, 3598, 3598), (3855, 3855, 3855), (4112, 4112, 4112), (4369, 4369, 4369), (4626, 4626, 4626), (4883, 4883, 4883), (5140, 5140, 5140), (5397, 5397, 5397), (5654, 5654, 5654), (5911, 5911, 5911), (6168, 6168, 6168), (6425, 6425, 6425), (6682, 6682, 6682), (6939, 6939, 6939), (7196, 7196, 7196), (7453, 7453, 7453), (7710, 7710, 7710), (7967, 7967, 7967), (8224, 8224, 8224), (8481, 8481, 8481), (8738, 8738, 8738), (8995, 8995, 8995), (9252, 9252, 9252), (9509, 9509, 9509), (9766, 9766, 9766), (10023, 10023, 10023), (10280, 10280, 10280), (10537, 10537, 10537), (10794, 10794, 10794), (11051, 11051, 11051), (11308, 11308, 11308), (11565, 11565, 11565), (11822, 11822, 11822), (12079, 12079, 12079), (12336, 12336, 12336), (12593, 12593, 12593), (12850, 12850, 12850), (13107, 13107, 13107), (13364, 13364, 13364), (13621, 13621, 13621), (13878, 13878, 13878), (14135, 14135, 14135), (14392, 14392, 14392), (14649, 14649, 14649), (14906, 14906, 14906), (15163, 15163, 15163), (15420, 15420, 15420), (15677, 15677, 15677), (15934, 15934, 15934), (16191, 16191, 16191), (16448, 16448, 16448), (16705, 16705, 16705), (16962, 16962, 16962), (17219, 17219, 17219), (17476, 17476, 17476), (17733, 17733, 17733), (17990, 17990, 17990), (18247, 18247, 18247), (18504, 18504, 18504), (18761, 18761, 18761), (19018, 19018, 19018), (19275, 19275, 19275), (19532, 19532, 19532), (19789, 19789, 19789), (20046, 20046, 20046), (20303, 20303, 20303), (20560, 20560, 20560), (20817, 20817, 20817), (21074, 21074, 21074), (21331, 21331, 21331), (21588, 21588, 21588), (21845, 21845, 21845), (22102, 22102, 22102), (22359, 22359, 22359), (22616, 22616, 22616), (22873, 22873, 22873), (23130, 23130, 23130), (23387, 23387, 23387), (23644, 23644, 23644), (23901, 23901, 23901), (24158, 24158, 24158), (24415, 24415, 24415), (24672, 24672, 24672), (24929, 24929, 24929), (25186, 25186, 25186), (25443, 25443, 25443), (25700, 25700, 25700), (25957, 25957, 25957), (26214, 26214, 26214), (26471, 26471, 26471), (26728, 26728, 26728), (26985, 26985, 26985), (27242, 27242, 27242), (27499, 27499, 27499), (27756, 27756, 27756), (28013, 28013, 28013), (28270, 28270, 28270), (28527, 28527, 28527), (28784, 28784, 28784), (29041, 29041, 29041), (29298, 29298, 29298), (29555, 29555, 29555), (29812, 29812, 29812), (30069, 30069, 30069), (30326, 30326, 30326), (30583, 30583, 30583), (30840, 30840, 30840), (31097, 31097, 31097), (31354, 31354, 31354), (31611, 31611, 31611), (31868, 31868, 31868), (32125, 32125, 32125), (32382, 32382, 32382), (32639, 32639, 32639), (-32640, -32640, -32640), (-32383, -32383, -32383), (-32126, -32126, -32126), (-31869, -31869, -31869), (-31612, -31612, -31612), (-31355, -31355, -31355), (-31098, -31098, -31098), (-30841, -30841, -30841), (-30584, -30584, -30584), (-30327, -30327, -30327), (-30070, -30070, -30070), (-29813, -29813, -29813), (-29556, -29556, -29556), (-29299, -29299, -29299), (-29042, -29042, -29042), (-28785, -28785, -28785), (-28528, -28528, -28528), (-28271, -28271, -28271), (-28014, -28014, -28014), (-27757, -27757, -27757), (-27500, -27500, -27500), (-27243, -27243, -27243), (-26986, -26986, -26986), (-26729, -26729, -26729), (-26472, -26472, -26472), (-26215, -26215, -26215), (-25958, -25958, -25958), (-25701, -25701, -25701), (-25444, -25444, -25444), (-25187, -25187, -25187), (-24930, -24930, -24930), (-24673, -24673, -24673), (-24416, -24416, -24416), (-24159, -24159, -24159), (-23902, -23902, -23902), (-23645, -23645, -23645), (-23388, -23388, -23388), (-23131, -23131, -23131), (-22874, -22874, -22874), (-22617, -22617, -22617), (-22360, -22360, -22360), (-22103, -22103, -22103), (-21846, -21846, -21846), (-21589, -21589, -21589), (-21332, -21332, -21332), (-21075, -21075, -21075), (-20818, -20818, -20818), (-20561, -20561, -20561), (-20304, -20304, -20304), (-20047, -20047, -20047), (-19790, -19790, -19790), (-19533, -19533, -19533), (-19276, -19276, -19276), (-19019, -19019, -19019), (-18762, -18762, -18762), (-18505, -18505, -18505), (-18248, -18248, -18248), (-17991, -17991, -17991), (-17734, -17734, -17734), (-17477, -17477, -17477), (-17220, -17220, -17220), (-16963, -16963, -16963), (-16706, -16706, -16706), (-16449, -16449, -16449), (-16192, -16192, -16192), (-15935, -15935, -15935), (-15678, -15678, -15678), (-15421, -15421, -15421), (-15164, -15164, -15164), (-14907, -14907, -14907), (-14650, -14650, -14650), (-14393, -14393, -14393), (-14136, -14136, -14136), (-13879, -13879, -13879), (-13622, -13622, -13622), (-13365, -13365, -13365), (-13108, -13108, -13108), (-12851, -12851, -12851), (-12594, -12594, -12594), (-12337, -12337, -12337), (-12080, -12080, -12080), (-11823, -11823, -11823), (-11566, -11566, -11566), (-11309, -11309, -11309), (-11052, -11052, -11052), (-10795, -10795, -10795), (-10538, -10538, -10538), (-10281, -10281, -10281), (-10024, -10024, -10024), (-9767, -9767, -9767), (-9510, -9510, -9510), (-9253, -9253, -9253), (-8996, -8996, -8996), (-8739, -8739, -8739), (-8482, -8482, -8482), (-8225, -8225, -8225), (-7968, -7968, -7968), (-7711, -7711, -7711), (-7454, -7454, -7454), (-7197, -7197, -7197), (-6940, -6940, -6940), (-6683, -6683, -6683), (-6426, -6426, -6426), (-6169, -6169, -6169), (-5912, -5912, -5912), (-5655, -5655, -5655), (-5398, -5398, -5398), (-5141, -5141, -5141), (-4884, -4884, -4884), (-4627, -4627, -4627), (-4370, -4370, -4370), (-4113, -4113, -4113), (-3856, -3856, -3856), (-3599, -3599, -3599), (-3342, -3342, -3342), (-3085, -3085, -3085), (-2828, -2828, -2828), (-2571, -2571, -2571), (-2314, -2314, -2314), (-2057, -2057, -2057), (-1800, -1800, -1800), (-1543, -1543, -1543), (-1286, -1286, -1286), (-1029, -1029, -1029), (-772, -772, -772), (-515, -515, -515), (-258, -258, -258), (-1, -1, -1)]"
+DocumentObjectList.TagGroup0.ImageDisplayInfo.CLUTName,Greyscale
+DocumentObjectList.TagGroup0.ImageDisplayInfo.ComplexMode,4
+DocumentObjectList.TagGroup0.ImageDisplayInfo.ComplexRange,1000.0
+DocumentObjectList.TagGroup0.ImageDisplayInfo.Contrast,0.5
+DocumentObjectList.TagGroup0.ImageDisplayInfo.ContrastMode,1
+DocumentObjectList.TagGroup0.ImageDisplayInfo.DiffractionMode,0
+DocumentObjectList.TagGroup0.ImageDisplayInfo.DimensionLabels.Data0,[]
+DocumentObjectList.TagGroup0.ImageDisplayInfo.DoAutoSurvey,1
+DocumentObjectList.TagGroup0.ImageDisplayInfo.EstimatedMax,-12.974617958068848
+DocumentObjectList.TagGroup0.ImageDisplayInfo.EstimatedMaxTrimPercentage,0.0010000000474974513
+DocumentObjectList.TagGroup0.ImageDisplayInfo.EstimatedMin,300.4684143066406
+DocumentObjectList.TagGroup0.ImageDisplayInfo.EstimatedMinTrimPercentage,0.0010000000474974513
+DocumentObjectList.TagGroup0.ImageDisplayInfo.Gamma,0.5
+DocumentObjectList.TagGroup0.ImageDisplayInfo.HighLimit,300.4684143066406
+DocumentObjectList.TagGroup0.ImageDisplayInfo.HiLimitContrastDeltaTriggerPercentage,0.0
+DocumentObjectList.TagGroup0.ImageDisplayInfo.IsIgnoreGirdBar,0
+DocumentObjectList.TagGroup0.ImageDisplayInfo.IsInverted,0
+DocumentObjectList.TagGroup0.ImageDisplayInfo.LowLimit,-12.381555557250977
+DocumentObjectList.TagGroup0.ImageDisplayInfo.LowLimitContrastDeltaTriggerPercentage,0.0
+DocumentObjectList.TagGroup0.ImageDisplayInfo.MainSliceId.Data0,0
+DocumentObjectList.TagGroup0.ImageDisplayInfo.MinimumContrast,0.0
+DocumentObjectList.TagGroup0.ImageDisplayInfo.RangeAdjust,1.0
+DocumentObjectList.TagGroup0.ImageDisplayInfo.SparseSurvey_GridSize,16
+DocumentObjectList.TagGroup0.ImageDisplayInfo.SparseSurvey_NumberPixels,32
+DocumentObjectList.TagGroup0.ImageDisplayInfo.SparseSurvey_UseNumberPixels,1
+DocumentObjectList.TagGroup0.ImageDisplayInfo.SurveyTechique,2
+DocumentObjectList.TagGroup0.ImageDisplayType,1
+DocumentObjectList.TagGroup0.ImageSource,0
+DocumentObjectList.TagGroup0.IsMoveable,1
+DocumentObjectList.TagGroup0.IsResizable,1
+DocumentObjectList.TagGroup0.IsSelectable,1
+DocumentObjectList.TagGroup0.IsTransferrable,1
+DocumentObjectList.TagGroup0.IsTranslatable,1
+DocumentObjectList.TagGroup0.IsVisible,1
+DocumentObjectList.TagGroup0.Rectangle,"(0.0, 0.0, 329.0, 329.0)"
+DocumentObjectList.TagGroup0.RestrictionStyle,0
+DocumentObjectList.TagGroup0.UniqueID,8
+Image Behavior.ImageDisplayBounds,"(0.0, 0.0, 329.0, 329.0)"
+Image Behavior.IsZoomedToWindow,1
+Image Behavior.UnscaledTransform.Offset,"(0.0, 0.0)"
+Image Behavior.UnscaledTransform.Scale,"(1.0, 1.0)"
+Image Behavior.ViewDisplayID,8
+Image Behavior.WindowRect,"(0.0, 0.0, 329.0, 329.0)"
+Image Behavior.ZoomAndMoveTransform.Offset,"(0.0, 0.0)"
+Image Behavior.ZoomAndMoveTransform.Scale,"(1.0, 1.0)"
+ImageSourceList.TagGroup0.ClassName,ImageSource:Simple
+ImageSourceList.TagGroup0.Id.Data0,0
+ImageSourceList.TagGroup0.ImageRef,1
+MinVersionList.TagGroup0.RequiredVersion,50659328
+Page Behavior.DrawMargins,1
+Page Behavior.DrawPaper,1
+Page Behavior.IsFixedInPageMode,0
+Page Behavior.IsZoomedToWindow,1
+Page Behavior.LayedOut,0
+Page Behavior.PageTransform.Offset,"(0.0, 0.0)"
+Page Behavior.PageTransform.Scale,"(1.0, 1.0)"
+Page Behavior.RestoreImageDisplayBounds,"(0.0, 0.0, 2048.0, 2048.0)"
+Page Behavior.RestoreImageDisplayID,8
+Page Behavior.TargetDisplayID,4294967295
+PageSetup.General,"(1, 1000, 8500, 11000, 1000, 1000, -1000, -1000)"
+PageSetup.Win32,"[6, 0, 0, 0, 52, 33, 0, 0, -8, 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -24, 3, 0, 0, -24, 3, 0, 0, -24, 3, 0, 0, -24, 3, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 18, 0]"
+PageSetup.Win32_DevModeW,"[77, 0, 105, 0, 99, 0, 114, 0, 111, 0, 115, 0, 111, 0, 102, 0, 116, 0, 32, 0, 88, 0, 80, 0, 83, 0, 32, 0, 68, 0, 111, 0, 99, 0, 117, 0, 109, 0, 101, 0, 110, 0, 116, 0, 32, 0, 87, 0, 114, 0, 105, 0, 116, 0, 101, 0, 114, 0, 0, 0, 0, 0, 0, 0, 1, 4, 0, 6, -36, 0, 88, 3, 3, -1, 0, 0, 1, 0, 1, 0, -22, 10, 111, 8, 100, 0, 1, 0, 15, 0, 88, 2, 2, 0, 1, 0, 88, 2, 2, 0, 0, 0, 76, 0, 101, 0, 116, 0, 116, 0, 101, 0, 114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 68, 73, 78, 85, 34, 0, 16, 1, 76, 3, 12, 0, -54, -46, -10, 114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 1, 0, 0, 83, 77, 84, 74, 0, 0, 0, 0, 16, 0, 0, 1, 77, 0, 105, 0, 99, 0, 114, 0, 111, 0, 115, 0, 111, 0, 102, 0, 116, 0, 32, 0, 88, 0, 80, 0, 83, 0, 32, 0, 68, 0, 111, 0, 99, 0, 117, 0, 109, 0, 101, 0, 110, 0, 116, 0, 32, 0, 87, 0, 114, 0, 105, 0, 116, 0, 101, 0, 114, 0, 0, 0, 73, 110, 112, 117, 116, 66, 105, 110, 0, 70, 79, 82, 77, 83, 79, 85, 82, 67, 69, 0, 82, 69, 83, 68, 76, 76, 0, 85, 110, 105, 114, 101, 115, 68, 76, 76, 0, 73, 110, 116, 101, 114, 108, 101, 97, 118, 105, 110, 103, 0, 79, 70, 70, 0, 73, 109, 97, 103, 101, 84, 121, 112, 101, 0, 74, 80, 69, 71, 77, 101, 100, 0, 79, 114, 105, 101, 110, 116, 97, 116, 105, 111, 110, 0, 80, 79, 82, 84, 82, 65, 73, 84, 0, 67, 111, 108, 108, 97, 116, 101, 0, 79, 70, 70, 0, 82, 101, 115, 111, 108, 117, 116, 105, 111, 110, 0, 79, 112, 116, 105, 111, 110, 49, 0, 80, 97, 112, 101, 114, 83, 105, 122, 101, 0, 76, 69, 84, 84, 69, 82, 0, 67, 111, 108, 111, 114, 77, 111, 100, 101, 0, 50, 52, 98, 112, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 77, 88, 68, 87, 1, 1, 0, 0]"
+PageSetup.Win32_DevNamesW,"[4, 0, 34, 0, 64, 0, 0, 0, 77, 0, 105, 0, 99, 0, 114, 0, 111, 0, 115, 0, 111, 0, 102, 0, 116, 0, 32, 0, 88, 0, 80, 0, 83, 0, 32, 0, 68, 0, 111, 0, 99, 0, 117, 0, 109, 0, 101, 0, 110, 0, 116, 0, 32, 0, 87, 0, 114, 0, 105, 0, 116, 0, 101, 0, 114, 0, 0, 0, 77, 0, 105, 0, 99, 0, 114, 0, 111, 0, 115, 0, 111, 0, 102, 0, 116, 0, 32, 0, 88, 0, 80, 0, 83, 0, 32, 0, 68, 0, 111, 0, 99, 0, 117, 0, 109, 0, 101, 0, 110, 0, 116, 0, 32, 0, 87, 0, 114, 0, 105, 0, 116, 0, 101, 0, 114, 0, 0, 0, 88, 0, 80, 0, 83, 0, 80, 0, 111, 0, 114, 0, 116, 0, 58, 0, 0, 0]"
+Thumbnails.TagGroup0.ImageIndex,0
+Thumbnails.TagGroup0.SourceSize_Pixels,"(329, 329)"
+ImageList.TagGroup0.ImageData.Calibrations.Brightness.Origin,0.0
+ImageList.TagGroup0.ImageData.Calibrations.Brightness.Scale,1.0
+ImageList.TagGroup0.ImageData.Calibrations.Brightness.Units,[]
+ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Origin,0.0
+ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Scale,0.009220022708177567
+ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Units,1/nm
+ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Origin,0.0
+ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Scale,0.009220022708177567
+ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup1.Units,1/nm
+ImageList.TagGroup0.ImageData.Calibrations.DisplayCalibratedUnits,1
+ImageList.TagGroup0.ImageData.Data.size,4194304
+ImageList.TagGroup0.ImageData.Data.endian,little
+ImageList.TagGroup0.ImageData.Data.size_bytes,16777216
+ImageList.TagGroup0.ImageData.Data.offset,153518
+ImageList.TagGroup0.ImageData.DataType,2
+ImageList.TagGroup0.ImageData.Dimensions.Data0,2048
+ImageList.TagGroup0.ImageData.Dimensions.Data1,2048
+ImageList.TagGroup0.ImageData.PixelDepth,4
+ImageList.TagGroup0.ImageTags.Acquisition.Device.Active Size (pixels),"(2048, 2048)"
+ImageList.TagGroup0.ImageTags.Acquisition.Device.Camera Number,2
+ImageList.TagGroup0.ImageTags.Acquisition.Device.CCD.Pixel Size (um),"(7.400000095367432, 7.400000095367432)"
+ImageList.TagGroup0.ImageTags.Acquisition.Device.Configuration.Location,wide_angle
+ImageList.TagGroup0.ImageTags.Acquisition.Device.Configuration.Transpose.Diagonal Flip,1
+ImageList.TagGroup0.ImageTags.Acquisition.Device.Configuration.Transpose.Horizontal Flip,0
+ImageList.TagGroup0.ImageTags.Acquisition.Device.Configuration.Transpose.Vertical Flip,1
+ImageList.TagGroup0.ImageTags.Acquisition.Device.Name,WA-Orius
+ImageList.TagGroup0.ImageTags.Acquisition.Device.Source,WA-Orius
+ImageList.TagGroup0.ImageTags.Acquisition.Device.Source ID,Orius SC200D 3
+ImageList.TagGroup0.ImageTags.Acquisition.Device.Source Model,Orius SC200D
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Area.Transform.Class Name,cm_acquisitiontransform_list
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Area.Transform.Transform List.TagGroup0.Binning,"(1, 1)"
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Area.Transform.Transform List.TagGroup0.Class Name,cm_acquisitiontransform
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Area.Transform.Transform List.TagGroup0.Sub Area Adjust,"(0, 0, 0, 0)"
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Area.Transform.Transform List.TagGroup0.Transpose.Diagonal Flip,1
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Area.Transform.Transform List.TagGroup0.Transpose.Horizontal Flip,0
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Area.Transform.Transform List.TagGroup0.Transpose.Vertical Flip,1
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.CCD.Pixel Size (um),"(7.400000095367432, 7.400000095367432)"
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Intensity.Transform.Class Name,cm_valuetransform_list
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.TagGroup0.Class Name,cm_valuetransform_affine
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.TagGroup0.Offset,200.0
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.TagGroup0.Scale,1.0
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.TagGroup1.ADC Max,16383.0
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.TagGroup1.ADC Min,0.0
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.TagGroup1.Class Name,cm_valuetransform_adc
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Reference Images.Dark.Mean (counts),200.03398001738242
+ImageList.TagGroup0.ImageTags.Acquisition.Frame.Reference Images.Dark.Standard Deviation (counts),1.0068771349008088
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Acquisition Write Flags,4294967295
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Base Detector.Class Name,cm_namedcameradetectorparameterset
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Base Detector.Name,default
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.bias post blank,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.bias pre blank,6
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.ccd_clock_tap_mask,1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.clpdm_end,2186
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.clpdm_start,2146
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.clpob_end,2185
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.clpob_start,2147
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.exp_time,0.4
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.external_clock_id,2
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.forceshutter,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.hbin,1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.output_tap_mask,1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.par_bias_read,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.par_read,2048
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.pixels_per_line,2202
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.pixel_end,2202
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.pixel_start,44
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.post_dc_restore_lines,16
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.post_fast_dump_lines,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.pre_dc_restore_lines,16
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.pre_fast_dump_lines,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.Shutter.Shutter Exposure,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.trigline,1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Detector.vbin,1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Environment.Mode Name,Imaging
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Acquire Stack,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Acquisition Buffer Size,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Alignment Filter,[]
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Antiblooming,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Async Processing,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Async Readout,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Auto Save,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Binning,"(1, 1)"
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Capture Duration,0.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.CCD Read Area,"(0, 0, 2048, 2048)"
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.CCD Read Ports,1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Choose Number Of Frame Shutters Automatically,1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Class Name,cm_camera_highlevelparameters
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Complex Exposure.Frame Count,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Complex Exposure.Sub-Exposure Count,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Continuous Readout,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Corrections,785
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Corrections Mask,1841
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Exposure (s),0.4
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Exposure Live Time,inf
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Exposure Priority,1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Frame Exposure,0.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.HardwareCorrections,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Lookback Duration,0.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Number Of Frame Shutters,1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Processing,Gain Normalized
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Quality Level,1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Read Frame Style,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Read Mode,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Secondary Shutter Post Exposure Compensation (s),0.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Secondary Shutter Pre Exposure Compensation (s),0.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Shutter.Primary Shutter States,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Shutter.Primary Shutter States Mask,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Shutter.Secondary Shutter States,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Shutter.Secondary Shutter States Mask,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Shutter.Shutter Exposure,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Shutter.Shutter Index,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Shutter Post Exposure Compensation (s),0.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Shutter Pre Exposure Compensation (s),0.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Stack Format,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Transform.Diagonal Flip,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Transform.Horizontal Flip,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.High Level.Transform.Vertical Flip,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Binning Threshold Exposure (s),5.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Class Name,cm_autoexpose_acquireimage
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Do Auto Expose,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Max Binning,8
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Max Exposure (s),5.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Max Target Intensity (%),80.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Maximum Exposure (s),5.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Min Binning,1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Min Exposure (s),0.1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Min Target Intensity (%),10.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Minimum Exposure (s),0.1
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Target Intensity (%),50.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup0.Version,3.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup1.Class Name,cm_imgproc_finalcombine
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup1.Frame Combine Style,Copy
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup1.Parameter 1,1.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup2.Class Name,cm_oriuspostprocess
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup3.Class Name,cm_stdviewerimagedisplayer
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup3.Do Auto Zoom,0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup3.Screen Relative Position,"(1.0, 0.0)"
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup3.Version,34078720
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup3.View Name,Frame
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup3.Viewer Class,acquire
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup3.Window Relative Position,"(1.0, 0.0)"
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup3.Zoom,1.0
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Objects.TagGroup4.Class Name,cm_imgproc_histogram
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Parameter Set Name,Record
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Parameter Set Tag Path,Imaging:Acquire:Record
+ImageList.TagGroup0.ImageTags.Acquisition.Parameters.Version,34078720
+ImageList.TagGroup0.ImageTags.DataBar.Acquisition Date,7/19/2023
+ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time,11:19:35 AM
+ImageList.TagGroup0.ImageTags.DataBar.Acquisition Time (OS),1.3334206775568021e+17
+ImageList.TagGroup0.ImageTags.DataBar.Binning,1
+ImageList.TagGroup0.ImageTags.DataBar.Device Name,WA-Orius
+ImageList.TagGroup0.ImageTags.DataBar.Exposure Number,303856
+ImageList.TagGroup0.ImageTags.DataBar.Exposure Time (s),0.4
+ImageList.TagGroup0.ImageTags.DataBar.Signal Name,WA-Orius
+ImageList.TagGroup0.ImageTags.GMS Version.Created,3.23.1521.0
+ImageList.TagGroup0.ImageTags.GMS Version.Saved,3.23.1521.0
+ImageList.TagGroup0.ImageTags.Microscope Info.Actual Magnification,320.00000000000006
+ImageList.TagGroup0.ImageTags.Microscope Info.Cs(mm),0.0
+ImageList.TagGroup0.ImageTags.Microscope Info.Emission Current (µA),0.0
+ImageList.TagGroup0.ImageTags.Microscope Info.Formatted Actual Mag,320x
+ImageList.TagGroup0.ImageTags.Microscope Info.Formatted Indicated Mag,2.7Mx
+ImageList.TagGroup0.ImageTags.Microscope Info.Formatted Voltage,200kV
+ImageList.TagGroup0.ImageTags.Microscope Info.HT Extrapolated,0
+ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode,STEM
+ImageList.TagGroup0.ImageTags.Microscope Info.Imaging Mode,DIFFRACTION
+ImageList.TagGroup0.ImageTags.Microscope Info.Indicated Magnification,2700000.0
+ImageList.TagGroup0.ImageTags.Microscope Info.Magnification Interpolated,1
+ImageList.TagGroup0.ImageTags.Microscope Info.Name,FEI Tecnai
+ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode,SCANNING
+ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode Type,7
+ImageList.TagGroup0.ImageTags.Microscope Info.Probe Current (nA),0.0
+ImageList.TagGroup0.ImageTags.Microscope Info.Probe Size (nm),0.0
+ImageList.TagGroup0.ImageTags.Microscope Info.STEM Camera Length,320.00000000000006
+ImageList.TagGroup0.ImageTags.Microscope Info.Stage Position.Stage Alpha,1.7860800000000003
+ImageList.TagGroup0.ImageTags.Microscope Info.Stage Position.Stage X,-10.592366400000001
+ImageList.TagGroup0.ImageTags.Microscope Info.Stage Position.Stage Y,233.21143401
+ImageList.TagGroup0.ImageTags.Microscope Info.Stage Position.Stage Z,-122.41587000000001
+ImageList.TagGroup0.ImageTags.Microscope Info.Voltage,200000.0
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup0.Data Type,20
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup0.Label,Specimen
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup0.Precision,0
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup0.Tag path,Session Info:Specimen
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup0.Units,[]
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup0.Value,[]
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup1.Data Type,20
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup1.Label,Operator
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup1.Precision,0
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup1.Tag path,Session Info:Operator
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup1.Units,[]
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup1.Value,[]
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Data Type,20
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Label,Microscope
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Precision,0
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Tag path,Session Info:Microscope
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Units,[]
+ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Value,[]
+ImageList.TagGroup0.ImageTags.Session Info.Microscope,[]
+ImageList.TagGroup0.ImageTags.Session Info.Operator,[]
+ImageList.TagGroup0.ImageTags.Session Info.Specimen,[]
+ImageList.TagGroup0.Name,08
+ImageList.TagGroup0.UniqueID.Data0,1590060871
+ImageList.TagGroup0.UniqueID.Data1,387338949
+ImageList.TagGroup0.UniqueID.Data2,529749175
+ImageList.TagGroup0.UniqueID.Data3,1544254505

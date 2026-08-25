@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from typing import Any
 
 from rdetoolkit.errors import catch_exception_with_message
@@ -62,7 +62,7 @@ def temdm3_module(
 
     # -- Save metadata.json
     meta: dict[str, Any] = {}
-    for key, value in zip(original_metadata['key'], original_metadata['value']):
+    for key, value in zip(original_metadata['key'], original_metadata['value'], strict=True):
         meta[key] = value
     module.meta_parser.parse(meta, metadata_def)
     module.meta_parser.save_meta(
@@ -130,14 +130,14 @@ def em_module(
 
     # -- Save metadata.json --
     meta: dict[str, Any] = {}
-    for key, value in zip(original_metadata['key'], original_metadata['value']):
+    for key, value in zip(original_metadata['key'], original_metadata['value'], strict=True):
         meta[key] = value
     module.meta_parser.parse(meta, metadata_def)
 
     new_dict: dict[str, Any] = {}
     dt = datetime.fromtimestamp(
         resource_paths.rawfiles[0].stat().st_ctime,
-        tz=timezone.utc,
+        tz=UTC,
     )
     new_dict['file_last_modified_date_time'] = dt.strftime('%Y/%m/%d %H:%M:%S')
     module.meta_parser.const_meta_info.update(new_dict)

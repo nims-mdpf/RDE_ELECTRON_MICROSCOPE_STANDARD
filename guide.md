@@ -1,7 +1,7 @@
-# 透過電子顕微鏡データ標準テンプレート
+# 電子顕微鏡データ標準テンプレート
 
 ## 概要
-透過電子顕微鏡データを登録したい方に適したテンプレートです。２つの入力モードがあり、１つはGatan社 Digital Micrographのdm3フォーマットから計測手法を自動的に判別して、適切な可視化を行うTEM_DM3モードで、対応する計測手法は、TEM、STEM、TED、EELSです。もう１つは、dm3やTiffやpng、bmpなどの画像ファイルを入力し、必要に応じて可視化・可読化を行うEMモードです。なお、すべての入力ファイルの解析にHyperSpyを用います。
+電子顕微鏡データを登録したい方に適したテンプレートです。２つの入力モードがあり、１つはGatan社 Digital Micrographのdm3フォーマットから計測手法を自動的に判別して、適切な可視化を行うTEM_DM3モードで、対応する計測手法は、TEM、STEM、TED、EELSです。もう１つは、dm3やTiffやpng、bmpなどの画像ファイルを入力し、必要に応じて可視化・可読化を行うEMモードです。なお、すべての入力ファイルの解析にHyperSpyを用います。
 
 * DT0008: TEM_DM3モード
 * DT0010: EMモード
@@ -17,21 +17,21 @@ TEM_DM3モードではTEMの専門家によって監修されたメタ情報を�
 
 ### データセットテンプレート情報
 - DT0008:
-  - 【データセットテンプレートID】NIMS_DT0008_ELECTRON_MICROSCOPE_STANDARD_TEM_DM3_v1.0
+  - 【データセットテンプレートID】NIMS_DT0008_ELECTRON_MICROSCOPE_STANDARD_TEM_DM3_v1.1
   - 【データセットテンプレート名日本語】電子顕微鏡データ標準テンプレート (TEM_DM3)
   - 【データセットテンプレート名英語】NIMS Erectron Microscope Standard dataset-template (TEM_DM3)
   - 【データセットテンプレートの説明】電子顕微鏡データを登録したい方に適したテンプレートです。Gatan社 Digital Micrographのdm3フォーマットから計測手法（TEM、STEM、TED、EELS）を自動的に判別して、適切な可視化・可読化を行います。
-  - 【バージョン】：1.0
+  - 【バージョン】：1.1
   - 【データセット種別】：加工・計測レシピ型
   - 【データ構造化】：あり (システム上「あり」を選択)
   - 【取り扱い事業】NIMS研究および共同研究プロジェクト (PROGRAM)
   - 【装置名】(なし)
 - DT0010:
-  - 【データセットテンプレートID】NIMS_DT0010_ELECTRON_MICROSCOPE_STANDARD_v1.0
+  - 【データセットテンプレートID】NIMS_DT0010_ELECTRON_MICROSCOPE_STANDARD_v1.1
   - 【データセットテンプレート名日本語】電子顕微鏡データ標準テンプレート
   - 【データセットテンプレート名英語】NIMS Erectron Microscope Standard dataset-template
   - 【データセットテンプレートの説明】Gatan社 Digital Micrographのdm3ファイルや、tiff、png、bmpなどの画像ファイルを入力し、必要に応じて可視化・可読化を行います。
-  - 【バージョン】：1.0
+  - 【バージョン】：1.1
   - 【データセット種別】：加工・計測レシピ型
   - 【データ構造化】：あり (システム上「あり」を選択)
   - 【取り扱い事業】NIMS研究および共同研究プロジェクト (PROGRAM)
@@ -105,12 +105,24 @@ em_standard_dataset_template
 │    ├── pyproject.toml
 │    ├── requirements-test.txt
 │    ├── requirements.txt
+│    ├── tests (テストコード)
 │    └── tox.ini
 ├── docs (ドキュメント)
 │    ├── manual (マニュアル)
 │    └── requirement_analysis
 │        ├── 要件定義_EM.xlsx (要件定義(EMモード用))
 │        └── 要件定義_TEM_DM3.xlsx (要件定義(TEM_DM3モード用))
+├── inputdata (サンプルデータ)
+│    ├── DigitalMicrograph (EMモード、DigitalMicrographフォーマット)
+│    │    └── dm3_hologram (画像データ)
+│    │    └── dm3_spectrum (スペクトルデータ)
+│    ├── ImageFormats (EMモード、画像フォーマット)
+│    ├── TemDm3 (TEM_DM3モード)
+│    │    ├── EELS (EELS測定)
+│    │    ├── STEM (STEM測定)
+│    │    ├── TED (TED測定)
+│    │    └── TEM (TEM測定)
+│    └── Tiff (EMモード、Tiffフォーマット)
 └── templates (テンプレート群)
     ├── template_Em (EMモード向け)
     │    ├── batch.yaml
@@ -148,7 +160,7 @@ em_standard_dataset_template
 ### 動作環境
 
 - Python: 3.12
-- RDEToolKit: 1.1.0
+- RDEToolKit: 1.7.1
 
 ### 動作環境ファイル入出力
 

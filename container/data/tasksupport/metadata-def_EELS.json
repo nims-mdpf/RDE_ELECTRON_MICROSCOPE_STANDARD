@@ -1,0 +1,473 @@
+{
+    "measurement_technique": {
+        "name": {
+            "ja": "測定手法",
+            "en": "Measurement Technique"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "description": "STEM, TEM, TEDの場合は「ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode」から取得。EELSの場合は「ImageList.TagGroup0.ImageTags.Meta Data.Signal」から取得。"
+    },
+    "eels.operator_identifier": {
+        "name": {
+            "ja": "測定者",
+            "en": "Operator identifier"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Operator"
+    },
+    "eels.operator_affiliation_identifier": {
+        "name": {
+            "ja": "測定者所属機関",
+            "en": "Operator affiliation identifier"
+        },
+        "schema": {
+            "type": "string"
+        }
+    },
+    "eels.institution_idendfier": {
+        "name": {
+            "ja": "所属施設など",
+            "en": "Institution idendfier"
+        },
+        "schema": {
+            "type": "string"
+        }
+    },
+    "eels.measurement_instrument": {
+        "name": {
+            "ja": "測定装置",
+            "en": "Measurement Instrument"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Items.TagGroup2.Value"
+    },
+    "eels.experiment_id": {
+        "name": {
+            "ja": "測定内容識別ID",
+            "en": "Experiment ID"
+        },
+        "schema": {
+            "type": "string"
+        }
+    },
+    "eels.file_property": {
+        "name": {
+            "ja": "測定ファイル_属性",
+            "en": "File Property"
+        },
+        "schema": {
+            "type": "string"
+        }
+    },
+    "eels.operation_date_time_year": {
+        "name": {
+            "ja": "測定日時[年]",
+            "en": "Operation Date-time[Year]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Date"
+    },
+    "eels.operation_date_time_month": {
+        "name": {
+            "ja": "測定日時[月]",
+            "en": "Operation Date-time[Month]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Date"
+    },
+    "eels.operation_date_time_day": {
+        "name": {
+            "ja": "測定日時[日]",
+            "en": "Operation Date-time[Day]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Date"
+    },
+    "eels.operation_date_time_hour": {
+        "name": {
+            "ja": "測定日時[時]",
+            "en": "Operation Date-time[Hour]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.End time"
+    },
+    "eels.operation_date_time_minute": {
+        "name": {
+            "ja": "測定日時[分]",
+            "en": "Operation Date-time[Minute]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.End time"
+    },
+    "eels.operation_date_time_second": {
+        "name": {
+            "ja": "測定日時[秒]",
+            "en": "Operation Date-time[Second]"
+        },
+        "schema": {
+            "type": "integer"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.End time"
+    },
+    "eels.data_size": {
+        "name": {
+            "ja": "データサイズ",
+            "en": "Data_size"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Data.size_bytes",
+        "unit": "byte",
+        "originalType": "number"
+    },
+    "eels.file_name": {
+        "name": {
+            "ja": "ファイル名",
+            "en": "File name"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.Name"
+    },
+    "eels.origin_of_spectrum_intensity": {
+        "name": {
+            "ja": "スペクトル強度の原点",
+            "en": "Origin of spectrum intensity"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Origin",
+        "originalType": "number"
+    },
+    "eels.scale_of_spectrum_intensity": {
+        "name": {
+            "ja": "スペクトル強度のスケール",
+            "en": "Scale of spectrum intensity"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Scale",
+        "originalType": "number"
+    },
+    "eels.unit_of_spectrum_intensity": {
+        "name": {
+            "ja": "スペクトル強度の単位",
+            "en": "Unit of spectrum intensity"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Brightness.Units"
+    },
+    "eels.energy_dispersion_per_channel": {
+        "name": {
+            "ja": "エネルギー分散",
+            "en": "Energy dispersion per channel"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Calibrations.Dimension.TagGroup0.Scale",
+        "unit": "eV",
+        "originalType": "number"
+    },
+    "eels.number_of_channels": {
+        "name": {
+            "ja": "チャンネル数",
+            "en": "Number of channels"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.Dimensions.Data0",
+        "unit": "pixel",
+        "originalType": "number"
+    },
+    "eels.dynamic_range_of_spectrum_intensity": {
+        "name": {
+            "ja": "スペクトル強度のダイナミックレンジ",
+            "en": "Dynamic range of spectrum intensity"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageData.PixelDepth",
+        "unit": "byte",
+        "originalType": "number"
+    },
+    "eels.detector": {
+        "name": {
+            "ja": "検出器",
+            "en": "Detector"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Acquisition.Device.Name"
+    },
+    "eels.binning": {
+        "name": {
+            "ja": "ビニング",
+            "en": "Binning"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Acquisition.Frame.Area.Transform.Transform List.TagGroup0.Binning"
+    },
+    "eels.total_integration_time": {
+        "name": {
+            "ja": "総計測時間",
+            "en": "Total integration time"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Integration time (s)",
+        "unit": "s",
+        "originalType": "number"
+    },
+    "eels.number_of_frames": {
+        "name": {
+            "ja": "積算回数",
+            "en": "Number of frames"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Number of frames",
+        "originalType": "number"
+    },
+    "eels.measurement_starting_time": {
+        "name": {
+            "ja": "測定開始時刻",
+            "en": "Measurement starting time"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS.Acquisition.Start time"
+    },
+    "eels.spectrometer_entrance_aperture": {
+        "name": {
+            "ja": "分光器入射絞り",
+            "en": "Spectrometer entrance aperture"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Aperture label",
+        "unit": "mm",
+        "originalType": "number"
+    },
+    "eels.drift_tube_enable": {
+        "name": {
+            "ja": "ドリフトチューブ設定",
+            "en": "Drift tube enable"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Drift tube enabled"
+    },
+    "eels.drift_tube_voltage": {
+        "name": {
+            "ja": "ドリフトチューブ電圧",
+            "en": "Drift tube voltage"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Drift tube voltage (V)",
+        "unit": "V",
+        "originalType": "number"
+    },
+    "eels.magnetic_sector_setting": {
+        "name": {
+            "ja": "磁場セクター設定",
+            "en": "Magnetic sector setting"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Energy loss (eV)",
+        "unit": "eV",
+        "originalType": "number"
+    },
+    "eels.high_tension_offset_voltage": {
+        "name": {
+            "ja": "加速電圧オフセット電圧",
+            "en": "High tension offset voltage"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.HT offset (V)",
+        "unit": "V",
+        "originalType": "number"
+    },
+    "eels.high_tension_offset_enable": {
+        "name": {
+            "ja": "加速電圧オフセット設定",
+            "en": "High tension offset enable"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.HT offset enabled"
+    },
+    "eels.eels_spectrometer_name": {
+        "name": {
+            "ja": "EELS装置名",
+            "en": "EELS spectrometer name"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.EELS Spectrometer.Instrument name"
+    },
+    "eels.gms_version_for_acquisition": {
+        "name": {
+            "ja": "データ取得GMSバージョン",
+            "en": "GMS version for acquisition"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Created"
+    },
+    "eels.gms_version_for_saving": {
+        "name": {
+            "ja": "データ保存GMSバーション",
+            "en": "GMS version for saving"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.GMS Version.Saved"
+    },
+    "eels.magnification": {
+        "name": {
+            "ja": "倍率",
+            "en": "Magnification"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Indicated Magnification",
+        "originalType": "number"
+    },
+    "eels.acceleration_voltage": {
+        "name": {
+            "ja": "加速電圧",
+            "en": "Acceleration voltage"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Voltage",
+        "unit": "V",
+        "originalType": "number"
+    },
+    "eels.post_specimen_lens_setting": {
+        "name": {
+            "ja": "結像系レンズ設定",
+            "en": "Post-specimen lens setting"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Imaging Mode"
+    },
+    "eels.pre_specimen_lens_setting": {
+        "name": {
+            "ja": "照射系レンズ設定",
+            "en": "Pre-specimen lens setting"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Illumination Mode"
+    },
+    "eels.microscope_information": {
+        "name": {
+            "ja": "電子顕微鏡情報",
+            "en": "Microscope information"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Name"
+    },
+    "eels.microscope_operation_mode": {
+        "name": {
+            "ja": "電子顕微鏡モード",
+            "en": "Microscope operation mode"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.Operation Mode"
+    },
+    "eels.stem_camera_length": {
+        "name": {
+            "ja": "STEMカメラ長",
+            "en": "STEM camera length"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Microscope Info.STEM Camera Length",
+        "unit": "mm",
+        "originalType": "number"
+    },
+    "eels.file_name2": {
+        "name": {
+            "ja": "ファイル名2",
+            "en": "File name2"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.Name"
+    },
+    "eels.specimen_info": {
+        "name": {
+            "ja": "試料情報",
+            "en": "Specimen info"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "originalName": "ImageList.TagGroup0.ImageTags.Session Info.Specimen"
+    },
+    "eels.comment": {
+        "name": {
+            "ja": "コメント",
+            "en": "Comment"
+        },
+        "schema": {
+            "type": "string"
+        }
+    }
+}
